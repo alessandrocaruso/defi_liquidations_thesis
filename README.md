@@ -16,5 +16,7 @@ The following dashboards contain summarized information related to the selected 
 - MakerDAO: https://dune.com/nomade/makerdao-thesis-final
 - Compound: https://dune.com/nomade/compound-thesis-final
 
+Extraction of data has been based on the work of https://github.com/duneanalytics/spellbook and queries can be found in the plfs folder.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
