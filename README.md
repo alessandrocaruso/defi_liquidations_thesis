@@ -15,6 +15,7 @@ The following dashboards contain summarized information related to the selected 
 - Aave: https://dune.com/nomade/aave-thesis-final
 - MakerDAO: https://dune.com/nomade/makerdao-thesis-final
 - Compound: https://dune.com/nomade/compound-thesis-final
+- Comparison of PLFs: https://dune.com/nomade/comparison-plfs-thesis-final
 
 Extraction of data has been based on the work of https://github.com/duneanalytics/spellbook and queries can be found in the plfs folder.
 
